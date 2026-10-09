@@ -1,0 +1,232 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "جاهز - الصفحة الرئيسية" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Jahiz" [ref=e7]
+        - generic [ref=e8]:
+          - generic [ref=e9]: جاهز
+          - generic [ref=e10]: JAHEZ
+      - navigation "التنقل الرئيسي" [ref=e11]:
+        - button "الرئيسية" [ref=e12] [cursor=pointer]
+        - button "عن جاهز" [ref=e13] [cursor=pointer]
+        - button "كيف يعمل" [ref=e14] [cursor=pointer]
+        - button "الخدمات" [ref=e15] [cursor=pointer]
+        - button "مراحل التقييم" [ref=e16] [cursor=pointer]
+        - button "الأسئلة الشائعة" [ref=e17] [cursor=pointer]
+      - generic [ref=e19]:
+        - button "تسجيل الدخول" [ref=e20] [cursor=pointer]
+        - button "ابدأ تقييم مصنعك" [ref=e24] [cursor=pointer]
+  - main [ref=e28]:
+    - generic [ref=e29]:
+      - region [ref=e30]:
+        - generic [ref=e31]:
+          - generic [ref=e32]:
+            - generic [ref=e33]:
+              - img "Jahiz" [ref=e35]
+              - paragraph [ref=e36]: التحول الرقمي يبدأ من هنا
+              - tablist "محاور الواجهة الرئيسية" [ref=e38]:
+                - tab "الرئيسية" [selected] [ref=e39] [cursor=pointer]
+                - tab "التقييم" [ref=e43] [cursor=pointer]
+                - tab "التحول الرقمي" [ref=e45] [cursor=pointer]
+                - tab "المصانع الذكية" [ref=e47] [cursor=pointer]
+                - tab "النتائج" [ref=e49] [cursor=pointer]
+              - heading "جاهزية المصانع لمستقبل رقمي" [level=1] [ref=e52]
+              - paragraph [ref=e53]:
+                - text: المنصة الوطنية لربط المنشآت الصناعية بمزودي حلول الأتمتة والذكاء الاصطناعي، بإشراف وحوكمة معتمدة من
+                - strong [ref=e54]: مركز تحديث الصناعة (IMC)
+                - text: .
+              - generic [ref=e55]:
+                - button "ابدأ تقييم مصنعك" [ref=e56] [cursor=pointer]
+                - button "اكتشف كيف يعمل" [ref=e57] [cursor=pointer]
+              - generic [ref=e58]:
+                - generic [ref=e59]: حوكمة IMC المعتمدة
+                - generic [ref=e63]: كتالوج معتمد في 7 تصنيفات
+                - generic [ref=e68]: تقييم الجاهزية الرقمية للمصنع
+            - generic [ref=e75]:
+              - generic [ref=e76]: جاهز.
+              - generic [ref=e79]: JAHIZ
+          - generic [ref=e82]:
+            - generic [ref=e83] [cursor=pointer]:
+              - heading "بوابة المنشآت والمصانع" [level=4] [ref=e92]
+              - paragraph [ref=e93]: تقييم الجدارة الرقمية، اكتشاف الحلول، وطلب خدمات التحول الذكي.
+            - generic [ref=e94] [cursor=pointer]:
+              - heading "بوابة مزودي الخدمات" [level=4] [ref=e102]
+              - paragraph [ref=e103]: طرح الحلول الصناعية، استقبال طلبات المصانع، ومساحة التفاوض.
+            - generic [ref=e104] [cursor=pointer]:
+              - heading "إدارة وحوكمة المنظومة (IMC)" [level=4] [ref=e112]
+              - paragraph [ref=e113]: اعتماد المزودين بالمعايير الخمسة، توثيق العقود، والرقابة المالية.
+            - generic [ref=e114]:
+              - heading "التسجيل والانضمام" [level=4] [ref=e120]
+              - paragraph [ref=e121]: اشترك في المنصة كمنشأة صناعية أو كمزود خدمة معتمد.
+              - generic [ref=e122]:
+                - button "تسجيل منشأة" [ref=e123] [cursor=pointer]
+                - button "تسجيل مزود" [ref=e124] [cursor=pointer]
+      - generic [ref=e125]:
+        - region [ref=e126]:
+          - generic [ref=e127]:
+            - generic [ref=e128]:
+              - heading "انضم إلى منظومة جاهز" [level=2] [ref=e129]
+              - paragraph [ref=e130]: سجّل منشأتك أو شركتك مباشرة. تصلك رسالة على بريدك الإلكتروني لتعيين كلمة المرور، ثم تكمل ملفك من بوابتك. يظهر مزود الخدمة للمصانع بعد اعتماده من مركز تحديث الصناعة.
+            - generic [ref=e131]:
+              - button "تسجيل منشأة صناعية ثم تقييم الجاهزية الرقمية" [ref=e132] [cursor=pointer]:
+                - generic [ref=e135]: تسجيل منشأة صناعية
+                - generic [ref=e136]: ثم تقييم الجاهزية الرقمية
+              - button "تسجيل مزود خدمة يراجعه مركز تحديث الصناعة" [ref=e137] [cursor=pointer]:
+                - generic [ref=e141]: تسجيل مزود خدمة
+                - generic [ref=e142]: يراجعه مركز تحديث الصناعة
+              - button "لديك حساب؟ تسجيل الدخول" [ref=e143] [cursor=pointer]:
+                - generic [ref=e147]: لديك حساب؟
+                - generic [ref=e148]: تسجيل الدخول
+        - generic [ref=e149]:
+          - heading "منظومة متكاملة لتمكين الصناعة الوطنية" [level=2] [ref=e150]
+          - paragraph [ref=e151]: حلول تكنولوجية موثوقة مصممة خصيصاً لمصانع الأغذية، النسيج، الكيماويات، والصناعات الهندسية.
+        - generic [ref=e152]:
+          - button "01 ERP & Applications تخطيط الموارد والإنتاج السحابي MRP تصنيف في الكتالوج" [ref=e153] [cursor=pointer]:
+            - generic [ref=e154]: "01"
+            - heading "ERP & Applications" [level=3] [ref=e160]
+            - paragraph [ref=e161]: تخطيط الموارد والإنتاج السحابي MRP
+            - generic [ref=e162]: تصنيف في الكتالوج
+          - button "02 OT & Automation ترقية لوحات التحكم والروبوتات الصناعية تصنيف في الكتالوج" [ref=e167] [cursor=pointer]:
+            - generic [ref=e168]: "02"
+            - heading "OT & Automation" [level=3] [ref=e175]
+            - paragraph [ref=e176]: ترقية لوحات التحكم والروبوتات الصناعية
+            - generic [ref=e177]: تصنيف في الكتالوج
+          - button "03 Cloud & Infrastructure الحوسبة الطرفية Edge وربط الماكينات تصنيف في الكتالوج" [ref=e182] [cursor=pointer]:
+            - generic [ref=e183]: "03"
+            - heading "Cloud & Infrastructure" [level=3] [ref=e188]
+            - paragraph [ref=e189]: الحوسبة الطرفية Edge وربط الماكينات
+            - generic [ref=e190]: تصنيف في الكتالوج
+          - button "04 Cybersecurity for ICS/OT تحصين شبكات SCADA ومواصفة IEC 62443 تصنيف في الكتالوج" [ref=e195] [cursor=pointer]:
+            - generic [ref=e196]: "04"
+            - heading "Cybersecurity for ICS/OT" [level=3] [ref=e202]
+            - paragraph [ref=e203]: تحصين شبكات SCADA ومواصفة IEC 62443
+            - generic [ref=e204]: تصنيف في الكتالوج
+          - button "05 AI, Data & Analytics الصيانة التنبؤية بالاهتزازات والرؤية الذكية تصنيف في الكتالوج" [ref=e209] [cursor=pointer]:
+            - generic [ref=e210]: "05"
+            - heading "AI, Data & Analytics" [level=3] [ref=e217]
+            - paragraph [ref=e218]: الصيانة التنبؤية بالاهتزازات والرؤية الذكية
+            - generic [ref=e219]: تصنيف في الكتالوج
+          - button "06 Smart Manufacturing التوأم الرقمي Digital Twin ومؤشر OEE تصنيف في الكتالوج" [ref=e224] [cursor=pointer]:
+            - generic [ref=e225]: "06"
+            - heading "Smart Manufacturing" [level=3] [ref=e230]
+            - paragraph [ref=e231]: التوأم الرقمي Digital Twin ومؤشر OEE
+            - generic [ref=e232]: تصنيف في الكتالوج
+          - button "07 Digital Consulting خارطة طريق التحول الرقمي واستشارات الجاهزية تصنيف في الكتالوج" [ref=e237] [cursor=pointer]:
+            - generic [ref=e238]: "07"
+            - heading "Digital Consulting" [level=3] [ref=e244]
+            - paragraph [ref=e245]: خارطة طريق التحول الرقمي واستشارات الجاهزية
+            - generic [ref=e246]: تصنيف في الكتالوج
+          - button "08 تقييم الجاهزية الرقمية أجب عن استبيان الجاهزية الرقمية واحصل على فئة جاهزية مصنعك وخارطة طريق بخدمات مقترحة. يحسبه الخادم فور الإرسال" [ref=e251] [cursor=pointer]:
+            - generic [ref=e252]: "08"
+            - heading "تقييم الجاهزية الرقمية" [level=3] [ref=e258]
+            - paragraph [ref=e259]: أجب عن استبيان الجاهزية الرقمية واحصل على فئة جاهزية مصنعك وخارطة طريق بخدمات مقترحة.
+            - generic [ref=e260]: يحسبه الخادم فور الإرسال
+        - generic [ref=e265]:
+          - generic [ref=e266]:
+            - heading "عن المنصة" [level=2] [ref=e269]
+            - generic [ref=e270]:
+              - generic [ref=e271]:
+                - paragraph [ref=e272]:
+                  - strong [ref=e273]: جاهز (JAHEZ)
+                  - text: هي المنصة الوطنية الرقمية التي تربط المنشآت الصناعية بمزودي حلول التحول الرقمي والأتمتة والذكاء الاصطناعي، ضمن منظومة موحّدة تديرها وتراقبها
+                  - strong [ref=e274]: مركز تحديث الصناعة (IMC)
+                  - text: لضمان جودة الحلول وحماية حقوق الطرفين.
+                - paragraph [ref=e275]: تمنح المنصة المصانع طريقاً واضحاً للتحول من التصنيع التقليدي إلى المصنع الذكي (Industry 4.0) عبر تقييم الجاهزية، اختيار الحلول المعتمدة، التفاوض والتعاقد الرقمي، ومتابعة التنفيذ والفواتير — كلها في مكان واحد وبشفافية كاملة.
+                - generic [ref=e276]:
+                  - generic [ref=e277]: حوكمة رسمية من IMC
+                  - generic [ref=e281]: اتفاقيات موثّقة بعد قبول العرض
+                  - generic [ref=e287]: فواتير وسداد وفق السياسة المالية المعتمدة
+              - generic [ref=e291]:
+                - generic [ref=e292]:
+                  - generic [ref=e293]: "7"
+                  - paragraph [ref=e294]: تصنيفات حلول صناعية معتمدة
+                - generic [ref=e295]:
+                  - generic [ref=e296]: "4"
+                  - paragraph [ref=e297]: قطاعات صناعية مستهدفة
+                - generic [ref=e298]:
+                  - generic [ref=e299]: "3"
+                  - paragraph [ref=e300]: "بوابات: مصنع، مزود، إدارة"
+          - generic [ref=e301]:
+            - heading "خدمات المنصة" [level=2] [ref=e304]
+            - generic [ref=e305]:
+              - button "01 تقييم الجاهزية الرقمية استبيان بركائز متعددة يحدد فئة جاهزية مصنعك ويعرض خارطة طريق وخدمات مقترحة من الكتالوج. استبيان الجاهزية" [ref=e306] [cursor=pointer]:
+                - generic [ref=e307]: "01"
+                - heading "تقييم الجاهزية الرقمية" [level=3] [ref=e313]
+                - paragraph [ref=e314]: استبيان بركائز متعددة يحدد فئة جاهزية مصنعك ويعرض خارطة طريق وخدمات مقترحة من الكتالوج.
+                - generic [ref=e315]: استبيان الجاهزية
+              - 'button "02 كتالوج وسوق الحلول تصفح خدمات الكتالوج المعتمدة الموزعة على 7 تصنيفات: ERP، الأتمتة، السحابة، الأمن الصناعي، الذكاء الاصطناعي والهندسة الرقمية. 7 تصنيفات معتمدة" [ref=e320] [cursor=pointer]':
+                - generic [ref=e321]: "02"
+                - heading "كتالوج وسوق الحلول" [level=3] [ref=e327]
+                - paragraph [ref=e328]: "تصفح خدمات الكتالوج المعتمدة الموزعة على 7 تصنيفات: ERP، الأتمتة، السحابة، الأمن الصناعي، الذكاء الاصطناعي والهندسة الرقمية."
+                - generic [ref=e329]: 7 تصنيفات معتمدة
+              - button "03 تفاوض وإرسال عروض مساحة تفاوض مباشرة بين المصنع والمزود مع رسائل وعروض بأسعار ومدد محددة داخل المنصة. عروض ورسائل مباشرة" [ref=e334] [cursor=pointer]:
+                - generic [ref=e335]: "03"
+                - heading "تفاوض وإرسال عروض" [level=3] [ref=e340]
+                - paragraph [ref=e341]: مساحة تفاوض مباشرة بين المصنع والمزود مع رسائل وعروض بأسعار ومدد محددة داخل المنصة.
+                - generic [ref=e342]: عروض ورسائل مباشرة
+              - button "04 اتفاقيات وعقود ومدفوعات اتفاقية موثّقة عند قبول العرض ومسودات عقود بمتطلبات نقل المعرفة، وفواتير ومدفوعات تُفعَّل وفق السياسة المالية المعتمدة. عقود ومدفوعات" [ref=e347] [cursor=pointer]:
+                - generic [ref=e348]: "04"
+                - heading "اتفاقيات وعقود ومدفوعات" [level=3] [ref=e355]
+                - paragraph [ref=e356]: اتفاقية موثّقة عند قبول العرض ومسودات عقود بمتطلبات نقل المعرفة، وفواتير ومدفوعات تُفعَّل وفق السياسة المالية المعتمدة.
+                - generic [ref=e357]: عقود ومدفوعات
+          - region "إعلانات المنصة" [ref=e362]:
+            - generic [ref=e363]: إعلانات وحملات المنصة
+            - generic "جارٍ تحميل الإعلانات" [ref=e368]
+          - generic [ref=e369]:
+            - heading "كيفية الاستخدام" [level=2] [ref=e372]
+            - paragraph [ref=e373]: أربع خطوات تفصلك من التسجيل حتى تشغيل أول مشروع تحول رقمي داخل مصنعك.
+            - generic [ref=e374]:
+              - button "01 سجّل حسابك سجّل منشأتك الصناعية أو شركتك كمزود خدمة، وستصلك رسالة لتعيين كلمة المرور والدخول إلى بوابتك. ابدأ التسجيل" [ref=e375] [cursor=pointer]:
+                - generic [ref=e376]: "01"
+                - heading "سجّل حسابك" [level=3] [ref=e382]
+                - paragraph [ref=e383]: سجّل منشأتك الصناعية أو شركتك كمزود خدمة، وستصلك رسالة لتعيين كلمة المرور والدخول إلى بوابتك.
+                - generic [ref=e384]: ابدأ التسجيل
+              - button "02 قيّم جاهزيتك أكمل استبيان الجاهزية الرقمية واحصل على نتيجة محسوبة من الخادم بفئة جاهزية مصنعك. ابدأ التقييم" [ref=e389] [cursor=pointer]:
+                - generic [ref=e390]: "02"
+                - heading "قيّم جاهزيتك" [level=3] [ref=e396]
+                - paragraph [ref=e397]: أكمل استبيان الجاهزية الرقمية واحصل على نتيجة محسوبة من الخادم بفئة جاهزية مصنعك.
+                - generic [ref=e398]: ابدأ التقييم
+              - button "03 اختر حلك المناسب تصفح كتالوج الخدمات المعتمدة، قارن العروض، وأرسل طلبك للمزود المناسب. افتح الكتالوج" [ref=e403] [cursor=pointer]:
+                - generic [ref=e404]: "03"
+                - heading "اختر حلك المناسب" [level=3] [ref=e410]
+                - paragraph [ref=e411]: تصفح كتالوج الخدمات المعتمدة، قارن العروض، وأرسل طلبك للمزود المناسب.
+                - generic [ref=e412]: افتح الكتالوج
+              - button "04 تفاوض وتعاقد تفاوض مع المزود، وثّق الاتفاق وأعدّ مسودة العقد، وتابع الفواتير من لوحتك. سجّل الدخول" [ref=e417] [cursor=pointer]:
+                - generic [ref=e418]: "04"
+                - heading "تفاوض وتعاقد" [level=3] [ref=e426]
+                - paragraph [ref=e427]: تفاوض مع المزود، وثّق الاتفاق وأعدّ مسودة العقد، وتابع الفواتير من لوحتك.
+                - generic [ref=e428]: سجّل الدخول
+        - region [ref=e433]:
+          - heading "الأسئلة الشائعة" [level=2] [ref=e436]
+          - generic [ref=e437]:
+            - group [ref=e438]:
+              - generic "ما هي منصة جاهز؟" [ref=e439] [cursor=pointer]
+            - group [ref=e443]:
+              - generic "من يدير المنصة؟" [ref=e444] [cursor=pointer]
+            - group [ref=e448]:
+              - generic "ما هو تقييم الجاهزية الرقمية؟" [ref=e449] [cursor=pointer]
+            - group [ref=e453]:
+              - generic "كيف أسجّل مصنعًا؟" [ref=e454] [cursor=pointer]
+            - group [ref=e458]:
+              - generic "كيف يُعتمد مزود الخدمة؟" [ref=e459] [cursor=pointer]
+            - group [ref=e463]:
+              - generic "هل العقود والفواتير داخل المنصة؟" [ref=e464] [cursor=pointer]
+      - generic [ref=e469]:
+        - generic [aria-hidden] [ref=e470]:
+          - generic [ref=e471]: جاهز
+          - generic [ref=e472]: JAHEZ
+        - heading "هل مصنعك جاهز للمستقبل؟" [level=2] [ref=e473]
+        - paragraph [ref=e474]: ابدأ رحلة التحول الرقمي اليوم.
+        - button "ابدأ تقييم مصنعك" [ref=e475] [cursor=pointer]
+        - paragraph [ref=e476]: يستغرق التقييم بضع دقائق فقط
+  - contentinfo [ref=e477]:
+    - generic [ref=e478]:
+      - generic [ref=e479]: منصة جاهز — بإشراف مركز تحديث الصناعة (IMC)
+      - navigation "روابط التسجيل" [ref=e480]:
+        - link "تسجيل منشأة صناعية" [ref=e481] [cursor=pointer]:
+          - /url: /register/factory
+        - link "تسجيل مزود خدمة" [ref=e482] [cursor=pointer]:
+          - /url: /register/provider
+        - link "تسجيل الدخول" [ref=e483] [cursor=pointer]:
+          - /url: /login
